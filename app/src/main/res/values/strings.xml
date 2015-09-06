@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestSecondaryDisplayWithFragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="secondary">You should see a Web page on the secondary display!</string>
+    <string name="primary">You should see a Web page to the right!</string>
+
+</resources>
